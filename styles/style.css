@@ -72,6 +72,9 @@ body{
     width: 150px;
     padding: 10px;
 }
+.dropdown_menu ul li a{
+    font-size: 14px;
+}
 .fas{
     float: right;
     margin-left: 10px;
