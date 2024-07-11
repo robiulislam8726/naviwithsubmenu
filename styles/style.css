@@ -47,7 +47,7 @@ body{
 .menu_bar ul li a{
     color: var(--color-white);
     text-decoration: none;
-    font-size: 20px;
+    font-size: 17px;
     transition: all 0.5s;
 }
 .menu_bar ul li a:hover{
@@ -88,7 +88,7 @@ body{
     background-color: var(--color-black);
 }
 .banner{
-    height: calc(100vh - 80px);
+    height: calc(60vh - 80px);
     background-image: url(../image/web.png);
     background-position: center;
     background-size: cover;
@@ -180,3 +180,4 @@ ul{
         width: 100%;
     }
 } 
+
