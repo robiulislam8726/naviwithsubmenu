@@ -89,7 +89,7 @@ body{
 }
 .banner{
     height: calc(100vh - 80px);
-    background-image: url(../image/bg.jpg);
+    background-image: url(../image/bgg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
